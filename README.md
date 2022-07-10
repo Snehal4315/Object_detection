@@ -1,7 +1,5 @@
 # Object_detection
 
 
-
-
-https://user-images.githubusercontent.com/69066903/178150269-14d8e642-5ae9-4114-84d1-0eaa68e3f4d3.mp4
+https://user-images.githubusercontent.com/69066903/178150301-529500a9-c39b-46ca-a55e-47f4db0c6eb1.mp4
 
