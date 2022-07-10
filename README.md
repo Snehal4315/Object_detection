@@ -1,3 +1,4 @@
 # Object_detection
 
-- https://drive.google.com/file/d/1wMiOYI37hr69tyEuq7oja2oq-bmCKiES/view?usp=sharing
+
+https://user-images.githubusercontent.com/69066903/178150208-285c6942-f6a9-4cb2-835f-763bed4b3912.mp4
